@@ -1,0 +1,15 @@
+C:\Users\CASA\Desktop\Webservis\Web\webservis\pessoais\TesteCredit\ITDEVRISK\ITDEVRISK\obj\Debug\net6.0\ITDEVRISK.csproj.AssemblyReference.cache
+C:\Users\CASA\Desktop\Webservis\Web\webservis\pessoais\TesteCredit\ITDEVRISK\ITDEVRISK\obj\Debug\net6.0\ITDEVRISK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CASA\Desktop\Webservis\Web\webservis\pessoais\TesteCredit\ITDEVRISK\ITDEVRISK\obj\Debug\net6.0\ITDEVRISK.AssemblyInfoInputs.cache
+C:\Users\CASA\Desktop\Webservis\Web\webservis\pessoais\TesteCredit\ITDEVRISK\ITDEVRISK\obj\Debug\net6.0\ITDEVRISK.AssemblyInfo.cs
+C:\Users\CASA\Desktop\Webservis\Web\webservis\pessoais\TesteCredit\ITDEVRISK\ITDEVRISK\obj\Debug\net6.0\ITDEVRISK.csproj.CoreCompileInputs.cache
+C:\Users\CASA\Desktop\Webservis\Web\webservis\pessoais\TesteCredit\ITDEVRISK\ITDEVRISK\bin\Debug\net6.0\ITDEVRISK.exe
+C:\Users\CASA\Desktop\Webservis\Web\webservis\pessoais\TesteCredit\ITDEVRISK\ITDEVRISK\bin\Debug\net6.0\ITDEVRISK.deps.json
+C:\Users\CASA\Desktop\Webservis\Web\webservis\pessoais\TesteCredit\ITDEVRISK\ITDEVRISK\bin\Debug\net6.0\ITDEVRISK.runtimeconfig.json
+C:\Users\CASA\Desktop\Webservis\Web\webservis\pessoais\TesteCredit\ITDEVRISK\ITDEVRISK\bin\Debug\net6.0\ITDEVRISK.dll
+C:\Users\CASA\Desktop\Webservis\Web\webservis\pessoais\TesteCredit\ITDEVRISK\ITDEVRISK\bin\Debug\net6.0\ITDEVRISK.pdb
+C:\Users\CASA\Desktop\Webservis\Web\webservis\pessoais\TesteCredit\ITDEVRISK\ITDEVRISK\obj\Debug\net6.0\ITDEVRISK.dll
+C:\Users\CASA\Desktop\Webservis\Web\webservis\pessoais\TesteCredit\ITDEVRISK\ITDEVRISK\obj\Debug\net6.0\refint\ITDEVRISK.dll
+C:\Users\CASA\Desktop\Webservis\Web\webservis\pessoais\TesteCredit\ITDEVRISK\ITDEVRISK\obj\Debug\net6.0\ITDEVRISK.pdb
+C:\Users\CASA\Desktop\Webservis\Web\webservis\pessoais\TesteCredit\ITDEVRISK\ITDEVRISK\obj\Debug\net6.0\ITDEVRISK.genruntimeconfig.cache
+C:\Users\CASA\Desktop\Webservis\Web\webservis\pessoais\TesteCredit\ITDEVRISK\ITDEVRISK\obj\Debug\net6.0\ref\ITDEVRISK.dll

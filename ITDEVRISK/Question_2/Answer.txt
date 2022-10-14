@@ -1,0 +1,5 @@
+﻿Criaria na classe enum EnumCategory o valor PEP, uma interface ICalculatePEP com um contrato que validaria
+IsPoliticallyExposed, logo criar a classe service ValidadePEPService recebendo os parametros pela chamada de intancia, validaria
+e atribuia o valor a variavel de propriedade private e retornaria o valor da varivel em metodo publico retorn(), na execução do projeto, já perguntaria
+ao usuário se é um tipo de pessoa PEP e seu tipo de exposição, caso sim, chamaria o metodo, validaria e retornava seu valor, caso sim, retornava PEP e quebrariao laço 
+para a próxima entrada.
